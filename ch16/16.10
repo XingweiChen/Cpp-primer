@@ -1,0 +1,2 @@
+The compiler uses these template arguments to instantiate a specific class from
+the template.
