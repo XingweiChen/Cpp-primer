@@ -34,6 +34,7 @@ public:
 private:
     CONT stack_;
 };
+
 // stack_ begin and end can not access, it's private.
 // we need add Stack as friend to all other stacks
 template<typename T, typename CONT>
